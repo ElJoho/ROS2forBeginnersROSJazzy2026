@@ -12,6 +12,12 @@ log/
 phantom_ws/build/
 phantom_ws/install/
 phantom_ws/log/
+*/build/
+*/log/
+*/install/
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
 
 # ============================
 # Python
